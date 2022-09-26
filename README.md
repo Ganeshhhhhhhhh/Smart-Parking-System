@@ -78,7 +78,7 @@ digitalWrite(led_red1,LOW);
 }
 else
 {
-analogWrite(led_green2,0);
+analogWrite(led_green1,0);
 digitalWrite(led_red2,HIGH);
 }
 
